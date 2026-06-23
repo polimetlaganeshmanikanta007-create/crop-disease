@@ -1,1 +1,3 @@
-[submodule "crop"]`n`tpath = crop`n`turl = https://github.com/Likhith2007/crop.git
+﻿[submodule "crop"]
+path = crop
+url = https://github.com/Likhith2007/crop.git
